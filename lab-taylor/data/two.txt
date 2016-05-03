@@ -1,0 +1,449 @@
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+v
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+v
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+v
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+v
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+v
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+v
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin
+
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/tlwirtz/.travis/travis.sh ] && source /Users/tlwirtz/.travis/travis.sh
+export NODE_PATH=/Users/tlwirtz/.node/lib/node_modules
+export PATH=/Users/tlwirtz/.node/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/Users/tlwirtz/google-cloud-sdk/bin:/Users/tlwirtz/.rbenv/shims:/Users/tlwirtz/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/Users/tlwirtz/.rvm/bin:/Users/tlwirtz/.rvm/bin

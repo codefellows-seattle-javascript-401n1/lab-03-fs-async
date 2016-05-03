@@ -6,7 +6,6 @@ const eslint = require('eslint');
 // const chai = require('chai');
 
 gulp.task('default', function(){
-
   return gulp.src('test/*.js')
   .pipe(mocha());
 });

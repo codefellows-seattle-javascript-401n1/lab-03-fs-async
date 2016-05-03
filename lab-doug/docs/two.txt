@@ -1,0 +1,21 @@
+Description:
+
+copy your lab-youname directory from the lab-01-modular-patterns assignment into the fork of this assignment
+
+For this assignment you will add a gulpfile and a package.json file to your previous assignment.
+
+The package.json file should include all the dependencies and dev devpendencies for the project.
+
+The gulpfile should contain a task to run the mocha/assert test as well as run eslint on all of your code. This should include your tests and your gulpfile.
+
+Bonus:
+
+For an extra point, set up a watch task that reruns your tests/eslint on changes to any of your files (minus package.json)
+HINT: read the gulp docs :)
+For another bonus point move the eslint options out of your eslint rc and into gulp
+Rubric:
+
+Correct Submission: 2pts
+Passes eslint: 2Pts
+Package.json: 3pts
+gulpfile: 3pts

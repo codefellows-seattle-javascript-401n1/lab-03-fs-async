@@ -8,12 +8,13 @@ describe('getFiles module', () => {
     const files = ['./data/one.txt', './data/two.txt', './data/three.txt'];
     it('should read files in order', (done) => {
       getFiles.readFiles(files, function(err, data){
-        expect(data).to.equal(
+        expect(data).to.be.eql(
         ['7b0a20202272756c',
         '0a504154483d2450',
         '0a504154483d2450']);
+        done();
       });
-      done();
+
     });
   });
 });

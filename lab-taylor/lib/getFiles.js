@@ -1,7 +1,6 @@
 'use strict';
 const fs = require('fs');
 
-
 exports.readFiles = function(files, cb){
   let firstEightBytes = [];
   function readFileInOrder(index, callback){

@@ -8,7 +8,8 @@ const fullPath = files.map((file)=>{
   return `${path}${file}`;
 });
 
-getFiles.readFiles(fullPath, (data) => {
+getFiles.readFiles(fullPath, (err, data) => {
+  if (err) {console.log(err);}
   data.map((file) => {
     console.log(file);
   });

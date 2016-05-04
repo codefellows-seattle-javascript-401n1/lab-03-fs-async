@@ -35,8 +35,8 @@ describe('Testing read module', function() {
           dataArray[index] = data.toString('hex', 0, 8);
 
           if (pathsArray.length === dataArray.length) {
+            expect(dataArray.length).to.be.equal(3);
             expect(dataArray[0]).to.be.equal('46697273743a2054');
-            expect(dataArray[1]).to.be.equal('5365636f6e643a20');
             expect(dataArray[2]).to.be.equal('54686972643a2042');
             done();
           }

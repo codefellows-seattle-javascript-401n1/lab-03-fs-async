@@ -1,23 +1,11 @@
 'use strict';
 
-const fs = require('fs');
+const read = require('./lib/read');
 
-const filesArray = [
+const pathsArray = [
   __dirname + '/data/first.txt',
   __dirname + '/data/second.txt',
   __dirname + '/data/third.txt'
 ];
 
-var sortedArray = [];
-
-filesArray.forEach(function(file, index){
-  fs.readFile(file, (err, data) => {
-    if (err) throw err;
-    sortedArray[index] = data.toString('utf8', 0, 8);
-
-    if (filesArray.length === sortedArray.length)
-      sortedArray.forEach(function(hexdata){
-        console.log(hexdata);
-      });
-  });
-});
+read(pathsArray);

@@ -1,0 +1,26 @@
+{
+  "name": "lab-03-fs-async",
+  "version": "0.0.1",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) lab-03-fs-async ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muddybeard210/lab-03-fs-async.git"
+  },
+  "author": "Matthew Sheridan-Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muddybeard210/lab-03-fs-async/issues"
+  },
+  "homepage": "https://github.com/muddybeard210/lab-03-fs-async#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
+}

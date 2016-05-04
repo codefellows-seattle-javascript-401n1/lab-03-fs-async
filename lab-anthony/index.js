@@ -1,26 +1,23 @@
 'use strict';
 
-const EventEmitter = require('events');
-const someFun = require(__dirname + '/lib/fs-read.js');
+const fs = require('fs');
 
-var ee = new EventEmitter();
+const filesArray = [
+  __dirname + '/data/first.txt',
+  __dirname + '/data/second.txt',
+  __dirname + '/data/third.txt'
+];
 
-ee.on('read', ()=>{
-  someFun.fsFun(__dirname + '/data/first.txt', function(err, data){
-    console.log(data.toString('hex', 0, 8));
+var sortedArray = [];
+
+filesArray.forEach(function(file, index){
+  fs.readFile(file, (err, data) => {
+    if (err) throw err;
+    sortedArray[index] = data.toString('utf8', 0, 8);
+
+    if (filesArray.length === sortedArray.length)
+      sortedArray.forEach(function(hexdata){
+        console.log(hexdata);
+      });
   });
 });
-
-ee.on('read', ()=>{
-  someFun.fsFun(__dirname + '/data/second.txt', function(err, data){
-    setTimeout(console.log(data.toString('utf8', 0, 8)), 10000);
-  });
-});
-
-ee.on('read', ()=>{
-  someFun.fsFun(__dirname + '/data/third.txt', function(err, data){
-    console.log(data.toString('hex', 0, 8));
-  });
-});
-
-ee.emit('read');

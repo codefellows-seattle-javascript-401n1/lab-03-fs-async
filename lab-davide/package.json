@@ -1,7 +1,7 @@
 {
   "name": "lab-davide",
   "version": "1.0.0",
-  "description": "",
+  "description": "asynch testing",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/FazioD/lab-03-fs-async.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "FazioD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/FazioD/lab-03-fs-async/issues"
   },
@@ -22,6 +22,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
     "mocha": "^2.4.5"
   }
 }

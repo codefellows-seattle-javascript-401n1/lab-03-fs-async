@@ -1,6 +1,12 @@
 'use strict';
-
-//getting clarifaction on buffer. Submitted waffle ticket//
 const fs = require('fs');
-
-var buffer = newBuffer(8);
+exports.buffer = function(textfile, callback) {
+  fs.readFile(textfile, (err, data) => {
+    if (err) {
+      console.err(err);
+      callback(err, null);
+      return;
+    }
+    callback(null, data);
+  });
+};

@@ -5,31 +5,29 @@
 'use strict';
 
 //buffer?//
-const newBuffer = require(__dirname + '/lib/buffer.js');
+const read = require(__dirname + '/lib/buffer');
 const EE  = require('events');
-const fs = require('fs');
-
-
+// const fs = require('fs');
 
 const ee = new EE();
 
+//will need to repeat this function below for second, third//
 ee.on('first', function() {
-  fs.readFile(__dirname + '/data/first.txt', function(err, data) {
+  read.buffer(__dirname + '/data/one.txt', function(err, data) {
     if (err) return console.log(err);
     console.log(data.toString('hex', 0, 8));
   });
 });
 
 ee.on('second', function() {
-  fs.readFile(__dirname + '/data/second.txt', function(err, data) {
+  read.buffer(__dirname + '/data/two.txt', function(err, data) {
     if (err) return console.log(err);
     console.log(data.toString('hex', 0, 8));
-
   });
 });
 
 ee.on('third', function() {
-  fs.readFile(__dirname + '/data/third.txt', function(err, data) {
+  read.buffer(__dirname + '/data/three.txt', function(err, data) {
     if (err) return console.log(err);
     console.log(data.toString('hex', 0, 8));
   });

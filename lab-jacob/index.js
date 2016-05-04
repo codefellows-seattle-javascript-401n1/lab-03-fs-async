@@ -12,12 +12,10 @@ files.forEach(function(path, index) {
       console.error('broken');
       return;
     }
-    console.log(data.toString('hex', 0, 7));
     results[index] = data.toString('hex', 0, 7);
     count++;
     if (count === files.length) {
       console.log(results);
-      console.log(count);
     }
   });
 });

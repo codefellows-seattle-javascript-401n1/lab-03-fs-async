@@ -10,19 +10,19 @@ const ee = new EventEmmiter();
 
 ee.on('first', function() {
   read.bufferfiles(firstone, (err, data) => {
-    console.log(data.toString('hex', 0, 7));
+    console.log(data.toString('hex', 0, 8));
   });
 });
 
 ee.on('second', function() {
   read.bufferfiles(secondone, (err, data) => {
-    console.log(data.toString('hex', 0, 7));
+    console.log(data.toString('hex', 0, 8));
   });
 });
 
 ee.on('third', function() {
   read.bufferfiles(thirdone, (err, data) => {
-    console.log(data.toString('hex', 0, 7));
+    console.log(data.toString('hex', 0, 8));
   });
 });
 

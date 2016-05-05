@@ -2,4 +2,7 @@
 
 const hexInsane = require(__dirname + '/lib/lab03');
 
-hexInsane();
+hexInsane(function(err, data){
+  if (err) throw err;
+  console.log('results :', data);
+});

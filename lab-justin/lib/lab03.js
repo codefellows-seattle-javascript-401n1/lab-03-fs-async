@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function(){
+module.exports = function(cb){
   const fs = require('fs');
   const filePaths = [
     __dirname + '/../data/one.txt',
@@ -13,12 +13,13 @@ module.exports = function(){
 
   filePaths.forEach(function(path, index){
     fs.readFile(path, function(err, data){
-      if(err) throw err;
+      if(err) return cb(err);
       // results[index] = data.slice(0, 8).toString('utf8');
       results[index] = data.slice(0, 8).toString('hex');
       count ++;
       if (count === filePaths.length) {
-        console.log('results: ', results);
+        // console.log('results: ', results);
+        cb(null, results);
       }
     });
   });

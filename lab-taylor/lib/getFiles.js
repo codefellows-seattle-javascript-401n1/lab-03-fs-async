@@ -5,7 +5,7 @@ exports.readFiles = function(files, cb){
   let firstEightBytes = [];
   function readFileInOrder(index, callback){
     if (index === files.length) {
-      callback(undefined, firstEightBytes);
+      callback(null, firstEightBytes);
     } else {
       fs.readFile(files[index], (err, data) => {
         if (err) {return callback(err);}

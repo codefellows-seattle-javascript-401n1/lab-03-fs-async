@@ -9,7 +9,7 @@ const fullPath = files.map((file)=>{
 });
 
 getFiles.readFiles(fullPath, (err, data) => {
-  if (err) {console.log(err);}
+  if (err) console.log(err);
   data.map((file) => {
     console.log(file);
   });

@@ -8,7 +8,7 @@ exports.readFiles = function(files, cb){
       callback(null, firstEightBytes);
     } else {
       fs.readFile(files[index], (err, data) => {
-        if (err) {return callback(err);}
+        if (err) return callback(err);
         firstEightBytes.push(data.toString('hex', 0, 8));
         readFileInOrder(index + 1, callback);
       });

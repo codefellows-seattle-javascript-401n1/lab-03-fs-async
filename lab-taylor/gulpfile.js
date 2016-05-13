@@ -16,10 +16,9 @@ gulp.task('runLint', () => {
     .pipe(eslint.failAfterError());
 });
 
-gulp.task('default', ['runTests', 'runLint'], () => {
+gulp.task('watch', () => {
+  gulp.watch(['**/*.js', '!node_modules/**'], ['runTests', 'runLint']);
 });
 
-const watcher = gulp.watch(['**/*.js', '!node_modules/**'], ['runTests', 'runLint']);
-watcher.on('change', (event) => {
-  console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
+gulp.task('default', ['runTests', 'runLint', 'watch'], () => {
 });

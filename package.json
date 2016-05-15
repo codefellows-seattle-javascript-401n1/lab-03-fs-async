@@ -18,10 +18,11 @@
   "homepage": "https://github.com/kyleschnirring/lab-03-fs-async#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.4.5"
-  },
-  "dependencies": {
+    "mocha": "^2.4.5",
     "gulp-eslint": "^2.0.0",
     "gulp-mocha": "^2.2.0"
+  },
+  "dependencies": {
+    
   }
 }

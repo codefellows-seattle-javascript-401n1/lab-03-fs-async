@@ -10,17 +10,9 @@ module.exports = function(pathsArray, callback) {
       if (err) throw err;
       dataArray[index] = data.toString('hex', 0, 8);
       count++;
-      if (count === pathsArray.length) {
-        callback(dataArray);
-      }
     });
+    if (count === pathsArray.length) {
+      callback(dataArray);
+    }
   });
 };
-
-
-// exports.read = function(path, cb) {
-//   fs.readFile(path, function(err, data) {
-//     if (err) throw err;
-//     cb(err, data);
-//   });
-// };

@@ -7,7 +7,7 @@ module.exports = function(filePaths, callback) {
   function asyncFiles(idx, cb) {
     if (idx !== filePaths.length) {
       fs.readFile(filePaths[idx], function(err, fd) {
-        if (err) console.error(err);
+        if (err) cb(err);
         bytes.push(fd.toString('hex', 0, 8));
         asyncFiles(idx+1, cb);
       });

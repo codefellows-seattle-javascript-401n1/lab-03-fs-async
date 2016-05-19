@@ -8,7 +8,7 @@ const filePaths = files.map(function(file) {
 });
 
 getFiles(filePaths, function(err, fd) {
-  if (err) console.error(err);
+  if (err) throw err;
   fd.forEach(function(val) {
     console.log(val);
   });

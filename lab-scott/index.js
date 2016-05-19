@@ -10,7 +10,7 @@ const filePaths = fs.readdir('./data/', function(err, files) {
 });
 
 getFiles(filePaths, function(err, fd) {
-  if (err) console.error(err);
+  if (err) throw err;
   fd.forEach(function(val) {
     console.log(val);
   });

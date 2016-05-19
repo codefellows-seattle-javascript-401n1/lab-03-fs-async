@@ -23,7 +23,7 @@ describe('Testing module lib/getFiles.js', function() {
       const files = ['./data/blue.txt', './data/green.txt', './data/yellow.txt'];
 
       getFiles(files, function(err) {
-        expect(err).to.equal('TypeError: Cannot read property \'toString\' of undefined');
+        expect(err).to.throw(new Error('Error: ENOENT: no such file or directory, open \'./data/blue.txt\''));
       });
       done();
     });

@@ -1,10 +1,12 @@
 'use strict';
 
 const getFiles = require(__dirname + '/lib/getFiles');
-const files = ['one.txt', 'two.txt', 'three.txt'];
+const fs = require('fs');
 
-const filePaths = files.map(function(file) {
-  return './data/' + file;
+const filePaths = fs.readdir('./data/', function(err, files) {
+  files.map(function(val) {
+    return './data/' + val;
+  });
 });
 
 getFiles(filePaths, function(err, fd) {

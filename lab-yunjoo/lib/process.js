@@ -11,18 +11,16 @@ const filePaths = [
 var result = [];
 var count = 0;
 
-var firstEight = function(){
-  filePaths.forEach(function(path, index){
-    fs.readFile(path, function(err, data){
+exports.firstEight = function(callback){
+
+  filePaths.forEach((path, index) => {
+    fs.readFile(path, (err, data) => {
       if (err) throw err;
       result[index] = data.toString('hex',0,8);
       count++;
       if (count === filePaths.length){
-        console.log(result);
+        return callback(result);
       }
     });
   });
 };
-
-firstEight();
-module.exports = firstEight;

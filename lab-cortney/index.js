@@ -7,18 +7,23 @@ const filePaths = [
   __dirname + '/data/three.txt'
 ];
 
+// exports.files = filePaths;
+
+
 var bufferedFiles = [];
 var counter = 0;
 
-filePaths.forEach(function(path, index){
-  readData(path, function(data){
-    const buf = new Buffer(data);
-    const output = buf.toString('hex',0,8);
-    bufferedFiles[index] = output;
-    counter++;
-    if (counter === filePaths.length) {
-      console.log(bufferedFiles);
-      return bufferedFiles;
-    }
+module.exports = function fileReader(callback){
+  filePaths.forEach(function(path, index){
+    readData(path, function(data){
+      const buf = new Buffer(data);
+      const output = buf.toString('hex',0,8);
+      bufferedFiles[index] = output;
+      counter++;
+      if (counter === filePaths.length) {
+        console.log(bufferedFiles);
+        return callback(bufferedFiles);
+      }
+    });
   });
-});
+};

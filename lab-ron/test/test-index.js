@@ -7,9 +7,11 @@ const expect = require('chai').expect;
 describe('testing index.js', function(){
   describe('testing fs.readFile', function(){
     it('should pass back a result array with three 8 bit hex sequences', function(done){
-      expect(data.toString('hex', 0, 8)).to.be.equal('[ "5261706861656c2d", "4d69636861656c61", "4c656f6e6172646f" ]');
+      data.index(function(result){
+        expect((result)).to.eql([ '5261706861656c2d', '4d69636861656c61', '4c656f6e6172646f' ]);
         // expect(true).to equal(true)
-      done();
+        done();
+      });
     });
   });
 });

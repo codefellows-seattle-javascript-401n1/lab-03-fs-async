@@ -13,8 +13,8 @@ describe('Testing the read module', function() {
       ];
       read(pathsArray, function(dataArray) {
         expect(dataArray[1]).to.be.equal('5365636f6e643a20');
-        done();
       });
+      done();
     });
   });
 });

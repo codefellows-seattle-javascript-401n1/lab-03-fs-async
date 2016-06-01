@@ -3,7 +3,7 @@
 const fs = require('fs');
 
 module.exports = function readFile(callback) {
-  fs.readFile(__dirname + '/../data/one.txt', function(err, data) {
+  fs.readFile(__dirname + '/../data/two.txt', function(err, data) {
     if (err) {
       console.error(err);
       callback(null);

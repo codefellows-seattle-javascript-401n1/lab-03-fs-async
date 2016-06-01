@@ -1,15 +1,15 @@
 {
   "name": "lab-andrew",
   "version": "0.1.0",
-  "description": "![cf](https://i.imgur.com/7v5ASc8.png) lab-03-fs-async ======",
+  "description": "Async test and proctice",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "mocha"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
-  "author": "",
+  "author": "andrewpeterwatson@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",

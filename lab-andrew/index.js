@@ -16,12 +16,12 @@ const handleData = module.exports = function(file) {
     controlData();
   });
   second(file, function(data) {
-    dataArr[0] = data;
+    dataArr[1] = data;
     counter++;
     controlData();
   });
   third(file, function(data) {
-    dataArr[0] = data;
+    dataArr[2] = data;
     counter++;
     controlData();
   });

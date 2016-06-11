@@ -14,14 +14,14 @@ var count = 0;
 exports.index = function(callback){
 
 
-  filePaths.forEach(function(path, index){
-    fs.readFile(path, function(err, data){
+  filePaths.forEach((path, index) => {
+
+    fs.readFile(path, (err, data) =>{
       if (err) throw err;
       result[index] = data.toString('hex',0,8);
     // result[index] = data.toString('utf-8', 0, 8)
       count++;
       if (count === filePaths.length){
-        console.log('result: ', result);
         return callback(result);
       }
     });

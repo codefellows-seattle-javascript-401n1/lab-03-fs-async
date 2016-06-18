@@ -14,13 +14,6 @@ gulp.task('eslint', function(){
   .pipe(eslint.format())
   .pipe(eslint.failAfterError());
 });
-//
-// gulp.task('watch', function(){
-//   gulp.watch(['**/*.js', '!node_modules/**'], 'mocha');
-// });
-// gulp.task('mocha', function(){
-//   return gulp.src(['index.js', 'lib/*.js]'])pipe.(mocha());
-//
-// })
+
 
 gulp.task('default', ['mocha', 'eslint' ]);
